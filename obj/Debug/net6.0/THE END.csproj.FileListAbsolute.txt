@@ -1,0 +1,15 @@
+C:\C#\THE END\bin\Debug\net6.0\THE END.exe
+C:\C#\THE END\bin\Debug\net6.0\THE END.deps.json
+C:\C#\THE END\bin\Debug\net6.0\THE END.runtimeconfig.json
+C:\C#\THE END\bin\Debug\net6.0\THE END.dll
+C:\C#\THE END\bin\Debug\net6.0\THE END.pdb
+C:\C#\THE END\obj\Debug\net6.0\THE END.csproj.AssemblyReference.cache
+C:\C#\THE END\obj\Debug\net6.0\THE END.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\THE END\obj\Debug\net6.0\THE END.AssemblyInfoInputs.cache
+C:\C#\THE END\obj\Debug\net6.0\THE END.AssemblyInfo.cs
+C:\C#\THE END\obj\Debug\net6.0\THE END.csproj.CoreCompileInputs.cache
+C:\C#\THE END\obj\Debug\net6.0\THE END.dll
+C:\C#\THE END\obj\Debug\net6.0\refint\THE END.dll
+C:\C#\THE END\obj\Debug\net6.0\THE END.pdb
+C:\C#\THE END\obj\Debug\net6.0\THE END.genruntimeconfig.cache
+C:\C#\THE END\obj\Debug\net6.0\ref\THE END.dll
