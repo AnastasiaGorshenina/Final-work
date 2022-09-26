@@ -13,3 +13,7 @@
 
 ## Блок -схема решения задачи
 https://github.com/AnastasiaGorshenina/Final-work/blob/main/2022-09-26_22-46-08.png
+
+
+## Решение задачи на языке C#
+https://github.com/AnastasiaGorshenina/Final-work/blob/main/Program.cs
